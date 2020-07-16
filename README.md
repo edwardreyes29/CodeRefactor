@@ -1,11 +1,16 @@
 # My Contribution
 Edward Reyes
 
+## HTML
+
 So I added sectioning elements such as `<nav>`, `<section>`, and `<aside>` where I thought were appropriate. I also included semantic elements like `<header>`, `<article>`, `<main>`, and `<footer>` following the guidelines specified from W3.org: https://www.w3.org/TR/html52/. From my understanding, the sectioning elements gives more semantic meaning to html pages, allowing programs to have a better understanding of the html document. The semantic elements describe the purposes of elements and types of content inside them. 
 
 I have also implemented WAI-ARIA landmark roles which according to the w3.org specifications (https://www.w3.org/TR/wai-aria-1.1/#landmark_roles) are "regions of the page intended as navigational landmarks." Doing this should allow assistive technologies, such as screen readers, to convey appropriate information to those who have disabilities.
 
 On the images on this document, I've added alt tags for screen readers as well that describe the images displayed as detailed as possible.
+
+## CSS
+I made several changes on the css to make it more efficient. I've changed the classes under the `<div class="contents">` to `class="content"` and also changed one of the rules accessor to `.content`, allowing me to remove redundant css rules. I've done the same thing to other classes and css rules that have the same rules. I've renamed some div such as the one with the `footer` class and made it into an actual footer class, where I had to change `.footer` to `footer` in the css file.
 
 
 # 01 HTML CSS Git: Code Refactor
