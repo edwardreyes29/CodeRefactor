@@ -1,3 +1,13 @@
+# My Contribution
+Edward Reyes
+
+So I added sectioning elements such as <nav>, <section>, and <aside> where I thought were appropriate. I also included semantic elements like <header>, <article>, <main>, and <footer> following the guidelines specified from W3.org: https://www.w3.org/TR/html52/. From my understanding, the sectioning elements gives more semantic meaning to html pages, allowing programs to have a better understanding of the html document. The semantic elements describe the purposes of elements and types of content inside them. 
+
+I have also implemented WAI-ARIA landmark roles which according to the w3.org specifications (https://www.w3.org/TR/wai-aria-1.1/#landmark_roles) are "regions of the page intended as navigational landmarks." Doing this should allow assistive technologies, such as screen readers, to convey appropriate information those who have disabilities.
+
+On the images on this document, I've added alt tags for screen readers as well that describe the images displayed as detailed as possible.
+
+
 # 01 HTML CSS Git: Code Refactor
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
