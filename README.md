@@ -1,7 +1,7 @@
 # My Contribution
 Edward Reyes
 
-So I added sectioning elements such as <nav>, <section>, and <aside> where I thought were appropriate. I also included semantic elements like <header>, <article>, <main>, and <footer> following the guidelines specified from W3.org: https://www.w3.org/TR/html52/. From my understanding, the sectioning elements gives more semantic meaning to html pages, allowing programs to have a better understanding of the html document. The semantic elements describe the purposes of elements and types of content inside them. 
+So I added sectioning elements such as `<nav>`, `<section>`, and `<aside>` where I thought were appropriate. I also included semantic elements like `<header>`, `<article>`, `<main>`, and `<footer>` following the guidelines specified from W3.org: https://www.w3.org/TR/html52/. From my understanding, the sectioning elements gives more semantic meaning to html pages, allowing programs to have a better understanding of the html document. The semantic elements describe the purposes of elements and types of content inside them. 
 
 I have also implemented WAI-ARIA landmark roles which according to the w3.org specifications (https://www.w3.org/TR/wai-aria-1.1/#landmark_roles) are "regions of the page intended as navigational landmarks." Doing this should allow assistive technologies, such as screen readers, to convey appropriate information those who have disabilities.
 
